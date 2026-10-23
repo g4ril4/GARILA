@@ -1,0 +1,20 @@
+{
+    "gemini_api_key": "",
+    "assistant_name": "GARILA",
+    "user_name": "Ahmad",
+    "voice_name": "Charon",
+    "os_system": "windows",
+    "ui_color": "#BD00FF",
+    "input_device": "Microphone Array (Realtek High Definition Audio)",
+    "output_device": "",
+    "push_to_talk_enabled": false,
+    "morning_brief_enabled": true,
+    "proactive_audio": false,
+    "turn_tuning": {
+        "enabled": true,
+        "silence_ms": 700,
+        "prefix_ms": 150,
+        "end_sensitivity": "high",
+        "start_sensitivity": "high"
+    }
+}

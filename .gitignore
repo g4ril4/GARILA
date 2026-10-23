@@ -1,0 +1,25 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+ENV/
+
+# Build & Dist
+build/
+dist/
+*.spec
+*.log
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Memory & Runtime Local Data
+memory/long_term.json
+memory/session_cache.json
